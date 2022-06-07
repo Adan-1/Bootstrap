@@ -14,3 +14,27 @@ aside{
 #nosotros{
     margin-top: 100px;
 }
+.accordion{
+    margin: 0 20%;
+}
+#contacto{
+    margin: 100px 20%;
+}
+@media (max-width: 600px){
+    aside{
+        margin: 0 0;
+    }
+    #nosotros{
+        margin-top: 0;
+    }
+    .accordion{
+        margin: 0 ;
+    }
+    .accordion{
+        margin: 0;
+    }
+    #contacto{
+        margin: 100px 0%;
+    }
+}
+    
